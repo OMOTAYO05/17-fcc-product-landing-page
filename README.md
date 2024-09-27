@@ -1,4 +1,4 @@
-# Product Landing Page
+# Product Landing Page.
 
 > This is a fcc certification project built by HTML5 AND CSS.
 
