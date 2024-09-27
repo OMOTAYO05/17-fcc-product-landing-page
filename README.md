@@ -1,4 +1,4 @@
-# Product Landing Page 
+# Product Landing Page
 
 > This is a fcc certification project built by HTML5 AND CSS.
 
@@ -7,22 +7,22 @@
 Additional description of the project and its features.
 
 ## Built With
- 
+
 - HTML5
-   - `div`
-   - `img`
-   - `nav`
-   - `ul`
-   - `footer`
+  - `div`
+  - `img`
+  - `nav`
+  - `ul`
+  - `footer`
 - CSS
-   - `background-color`
-   - `display`
-   - `position`
-   - `decoration`
-   - `padding`
+  - `background-color`
+  - `display`
+  - `position`
+  - `decoration`
+  - `padding`
 - Linters
-   - [Prettier](https://prettier.io/),
-   - [Stylelint](https://stylelint.io/),
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/),
 - Github Action
 
 ## Live Demo
@@ -30,6 +30,7 @@ Additional description of the project and its features.
 [Live Demo Link](https://livedemo.com)
 
 ## Deployment Link
+
 [Deployment-Link](https://vercel.com/onikosi-omotayo-eniolas-projects/17-fcc-product-landing-page)
 
 ### Development (Running locally)
