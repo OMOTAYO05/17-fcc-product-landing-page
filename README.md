@@ -1,27 +1,43 @@
-# Project Name
+# Product Landing Page 
 
-> One paragraph statement about the project.
+> This is a fcc certification project built by HTML5 AND CSS.
 
-![screenshot](./app_screenshot.png)
+![Product Landing](image.png)
 
 Additional description of the project and its features.
 
 ## Built With
-
-- Major languages,
-- frameworks,
-- technologies used
+ 
+- HTML5
+   - `div`
+   - `img`
+   - `nav`
+   - `ul`
+   - `footer`
+- CSS
+   - `background-color`
+   - `display`
+   - `position`
+   - `decoration`
+   - `padding`
+- Linters
+   - [Prettier](https://prettier.io/),
+   - [Stylelint](https://stylelint.io/),
+- Github Action
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
+
+## Deployment Link
+[Deployment-Link](https://vercel.com/onikosi-omotayo-eniolas-projects/17-fcc-product-landing-page)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/html-css-template.git
+git clone https://github.com/OMOTAYO05/html-css-template.git
 
 ```
 
